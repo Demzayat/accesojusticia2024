@@ -1,0 +1,17 @@
+.navbar-default {
+    background-color:#ca26cb ;
+    border-color: transparent;
+    padding: 15px 0 15px 0;
+}
+body{
+  color: #200953 !important;
+  text-align: justify;
+}
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+   background-color: #ca26cb ;
+}
+
+.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+	background-color: #ca26cb; 
+}
