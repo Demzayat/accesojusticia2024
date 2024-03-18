@@ -1,8 +1,10 @@
 ---
 title: "Acceso a la Justicia y Litigio Constitucional"
-output: pdf_document
+author:
+- name: Demian Zayat 
+  affiliation: Universidad de Buenos Aires - Facultad de Derecho 
+  description: Sitio de la comisión 5660 - 1er bimestre 2023  Ma-Vi 10:11.30hs
 ---
-
 
 ```{r, include=FALSE}
 library(readr)
@@ -59,9 +61,6 @@ Presentación de los objetivos y metodología del curso. Introducción al derech
 -   Maurino, Gustavo y Sucunza Matías, "Acceso a la Justicia", en Gargarella- Guidi *Comentarios de la Constitución de la Nación Argentina*, tomo 2, pp 895-929, puntos 3 y 4, [aca](https://drive.google.com/file/d/1Gj7BF0AtPkcnPp7YI7-M2oU-olQHS_I9/view?usp=sharing).
 
 -   Reglas de Brasilia sobre Acceso a la Justicia de las Personas con vulnerabilidad con la actualización de 2018, [en este link](http://www.cumbrejudicial.org/comision-de-seguimiento-de-las-reglas-de-brasilia/documentos-comision-de-seguimiento-de-las-reglas-de-brasilia/item/817-cien-reglas-de-brasilia-actualizadas-version-abril-2018-xix-cumbre-judicial-asamblea-plenaria-san-francisco-de-quito)
-
-- Borrador de Convenio Iberoamericano sobre Acceso a la Justicia [aca](https://drive.google.com/file/d/1ZvhBoVmS245Mt4_mxBN_GJOdlh1jDEL5/view?usp=sharing)
-
 
 ### `r advdate(viernes, 2)` Unidad 2. Concepto clásico y estructural
 
