@@ -92,7 +92,9 @@ Feriado No hay Clases.
 ### `r advdate(martes, 4)`. 
 Feriado No hay Clases
 
-### `r advdate(viernes, 4)`. Unidad 3. La práctica - Migrantes
+### `r advdate(viernes, 4)`. Clase suspendida
+
+### `r advdate(martes, 5)`. Unidad 3. La práctica - Migrantes
 
 En esta unidad comenzaremos a ver cómo son afectados algunos grupos en particular.
 
@@ -103,7 +105,7 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 
 
-### `r advdate(martes, 5)`. Unidad 3. La práctica - Situación de Calle
+### `r advdate(viernes, 5)`. Unidad 3. La práctica - Situación de Calle
 
 b.  Usurpaciones y derecho de defensa
 
@@ -111,7 +113,7 @@ b.  Usurpaciones y derecho de defensa
 
 - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing)
 
-### `r advdate(viernes, 5)`. Unidad 3. La práctica
+### `r advdate(martes, 6)`. Unidad 3. La práctica
 
 b.  Personas con discapacidad
 
@@ -123,14 +125,38 @@ b.  Personas con discapacidad
 - CSJN, "Institutos Médicos Antártida s/ quiebra s/ inc. de verificación (R.A.F. y L.R.H. de F)" [aca](https://drive.google.com/file/d/1THtTAOVsLhI8y5mQq5mNTLrt-LFdFc-K/view?usp=sharing)
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
 
-### `r advdate(martes, 6)`. Unidad 3. La práctica -Niñeces
+### `r advdate(viernes, 6)`. Unidad 3. La práctica -Niñeces
 
 c. Niñeces
   - Romina Faerman, [Las decisiones de los NNA a la luz del principio de autonomía](https://drive.google.com/file/d/1vjWDNx026ng38dl2I4G_ojXGlBQt23TT/view?usp=sharing)
   - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing), presentado por Romina Faerman (en especial capítulo 2)
-  
 
-### `r advdate(viernes, 6)`. Unidad 3. La práctica - LGBTIQ
+
+### `r advdate(martes, 7)`. Unidad 3. La práctica
+
+Unidad 3. La práctica - Mujeres
+
+e.  Mujeres
+
+-   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/). Leer la introducción y las fichas 1, 3, 5 y 6.
+
+-   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
+
+- Ley de Protección integral conta la Mujer [aca](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/texact.htm) 
+
+Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prUqWHKnUd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+- Pique y Fernandez Valle, "La garantía de imparcialidad judicial desde la perspectiva de género"  [aca](https://drive.google.com/file/d/1atsNG8fNfxcBruDPtPve0N3AmUf6OA3h/view?usp=sharing)
+
+- Recusación Luz Aime [aca](https://drive.google.com/file/d/1ZWe1xva3x_Y0ttVg2CZ4eliKBj-8bbBy/preview)
+
+
+
+
+### `r advdate(viernes, 7)`. Unidad 3. La práctica - LGBTIQ
 
 d.  LGBT Trans
 
@@ -144,39 +170,11 @@ Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.g
 [ley 27.636](http://servicios.infoleg.gob.ar/infolegInternet/anexos/350000-354999/351815/norma.htm)
 
 
-
-### `r advdate(martes, 7)`. Unidad 3. La práctica
-
-Unidad 3. La práctica - Mujeres
-
-e.  Mujeres
-
-- Pique y Fernandez Valle, "La garantía de imparcialidad judicial desde la perspectiva de género"  [aca](https://drive.google.com/file/d/1atsNG8fNfxcBruDPtPve0N3AmUf6OA3h/view?usp=sharing)
-
-- Recusación Luz Aime [aca](https://drive.google.com/file/d/1ZWe1xva3x_Y0ttVg2CZ4eliKBj-8bbBy/preview)
+### `r advdate(martes, 8)`. Unidad 3. La práctica - Afro
 
 - Alegato de cierre Ministerio Público Fiscal [Luz Aime](https://youtu.be/ZKH82JYVLgc)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### `r advdate(viernes, 7)`. Unidad 3. La práctica - Mujeres
-
-e. Mujeres (cont)
-
--   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/). Leer la introducción y las fichas 1, 3, 5 y 6.
-
--   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
-
-- Ley de Protección integral conta la Mujer [aca](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/texact.htm) 
-
-Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/prUqWHKnUd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-### `r advdate(martes, 8)`. Unidad 3. La práctica - Afro
-
 e.  Africanos y afrodescendientes
 
 -   Informe Defensoria CABA, [aca](https://drive.google.com/file/d/1vIoZ7GBl8fwXbZWhqoCxqOHsHMvP7Dki/view?usp=sharing)
