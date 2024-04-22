@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  17 MAR 2024 21:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  8 APR 2024 09:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,13 +497,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.271 ...d de Buenos Aires: un estudio empírico}
+l.275 ...d de Buenos Aires: un estudio empírico}
                                                   , en 
 Here is how much of TeX's memory you used:
- 13139 strings out of 480144
- 207306 string characters out of 5893198
+ 13140 strings out of 480144
+ 207312 string characters out of 5893198
  537504 words of memory out of 5000000
- 30826 multiletter control sequences out of 15000+600000
+ 30827 multiletter control sequences out of 15000+600000
  504845 words of font info for 85 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  74i,5n,77p,1002b,403s stack positions out of 5000i,500n,10000p,200000b,80000s

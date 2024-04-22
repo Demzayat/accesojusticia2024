@@ -20,6 +20,9 @@ advdate <- function(obj, adv) {
 }
 ```
 
+Demián Zayat
+dzayat@derecho.uba.ar
+
 ## Programa
 
 En este curso analizaremos el derecho de acceder a la justicia, su fuente constitucional, sus garantías de funcionamiento y sus mayores problemas y dificultades para su ejercicio.
@@ -101,6 +104,7 @@ En esta unidad comenzaremos a ver cómo son afectados algunos grupos en particul
 a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 -   Expediente judicial CAF 067668/2018 [retencion](https://drive.google.com/file/d/1MszNbvuQgl56ukSCbql4ggAAKyiia5Bs/view?usp=sharing), [captura](https://drive.google.com/file/d/11RSJ0lXuMKwhQy-gVHfODbc-AH1fBE0j/view?usp=sharing) y [apelacion](https://drive.google.com/file/d/1xsXyT2y3F7sGL8yhK8kG6GTfhkYi7nVw/view?usp=sharing)
+
 -   Oteiza y Zayat, A treinta años de la CDN, [aca](https://drive.google.com/file/d/1rZbIfh3834THG1K07moFq1Cgp_zmYtsk/view?usp=sharing)
 
 
@@ -111,6 +115,8 @@ b.  Usurpaciones y derecho de defensa
 
 -   Ricciardi y Zayat, *El derecho de defensa en los casos de usurpaciones en la Ciudad de Buenos Aires: un estudio empírico*, en Revista Institucional de la Defensa Pública de la CABA N° 1, disponible [acá](https://drive.google.com/file/d/1KeqFSqkZ2aBrHXkRcIaZCVu6AMSaX7zH/view?usp=sharing)
 
+- Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)"
+
 - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing)
 
 ### `r advdate(martes, 6)`. Unidad 3. La práctica
@@ -119,20 +125,33 @@ b.  Personas con discapacidad
 
 -   Corte IDH, caso "Furlan y familiares c. Argentina", disponible [aca](https://www.corteidh.or.cr/docs/casos/articulos/seriec_246_esp.pdf), y un resumen oficial [aca](https://www.corteidh.or.cr/docs/casos/articulos/resumen_246_esp.pdf)
 
--   CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
 
 - CSJN, "Asociación Francesa de Beneficencia" [aca](https://drive.google.com/file/d/1hVROXu_IFbswD_0UtcBpXPZ0gEbTIiQJ/view?usp=share_link)
+
 - CSJN, "Institutos Médicos Antártida s/ quiebra s/ inc. de verificación (R.A.F. y L.R.H. de F)" [aca](https://drive.google.com/file/d/1THtTAOVsLhI8y5mQq5mNTLrt-LFdFc-K/view?usp=sharing)
+
 - CSJN, Ejecuciones contra el Estado [aca](https://drive.google.com/file/d/1X2oK8aGhqhadJ7YkQCHktaT49Ypk5udZ/view?usp=share_link)
 
 ### `r advdate(viernes, 6)`. Unidad 3. La práctica -Niñeces
 
+b. Salud Mental
+
+-   CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
+
+- Ley de salud mental [aca](https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm)
+
 c. Niñeces
-  - Romina Faerman, [Las decisiones de los NNA a la luz del principio de autonomía](https://drive.google.com/file/d/1vjWDNx026ng38dl2I4G_ojXGlBQt23TT/view?usp=sharing)
-  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing), presentado por Romina Faerman (en especial capítulo 2)
+  <!-- - Romina Faerman, [Las decisiones de los NNA a la luz del principio de autonomía](https://drive.google.com/file/d/1vjWDNx026ng38dl2I4G_ojXGlBQt23TT/view?usp=sharing) -->
+  
+  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing) (capítulos 1 y 2)
 
 
-### `r advdate(martes, 7)`. Unidad 3. La práctica
+
+### `r advdate(martes, 7)`. Paro. Marcha Nacional universitaria
+
+
+
+### `r advdate(viernes, 7)`. Unidad 3. La práctica
 
 Unidad 3. La práctica - Mujeres
 
@@ -140,23 +159,24 @@ e.  Mujeres
 
 -   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/). Leer la introducción y las fichas 1, 3, 5 y 6.
 
--   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
+- Pique y Fernandez Valle, "La garantía de imparcialidad judicial desde la perspectiva de género"  [aca](https://drive.google.com/file/d/1atsNG8fNfxcBruDPtPve0N3AmUf6OA3h/view?usp=sharing)
 
-- Ley de Protección integral conta la Mujer [aca](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/texact.htm) 
+- Recusación Luz Aime [aca](https://drive.google.com/file/d/1ZWe1xva3x_Y0ttVg2CZ4eliKBj-8bbBy/preview)
+
+
+<!-- -   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing) -->
+
+- Ley de Protección integral contra la Mujer [aca](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/texact.htm) 
 
 Dejo por aca el video de [Rita Segato](https://youtu.be/prUqWHKnUd4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/prUqWHKnUd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-- Pique y Fernandez Valle, "La garantía de imparcialidad judicial desde la perspectiva de género"  [aca](https://drive.google.com/file/d/1atsNG8fNfxcBruDPtPve0N3AmUf6OA3h/view?usp=sharing)
-
-- Recusación Luz Aime [aca](https://drive.google.com/file/d/1ZWe1xva3x_Y0ttVg2CZ4eliKBj-8bbBy/preview)
 
 
 
-
-### `r advdate(viernes, 7)`. Unidad 3. La práctica - LGBTIQ
+### `r advdate(martes, 8)`. Unidad 3. La práctica - LGBTIQ
 
 d.  LGBT Trans
 
@@ -166,27 +186,29 @@ d.  LGBT Trans
 
 - Caso de Luz Aime, [aca](http://cosecharoja.org/absolvieron-a-luz-aime/)
 
+- Alegato de cierre Ministerio Público Fiscal [Luz Aime](https://youtu.be/ZKH82JYVLgc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341808/norma.htm) y la 
 [ley 27.636](http://servicios.infoleg.gob.ar/infolegInternet/anexos/350000-354999/351815/norma.htm)
 
 
-### `r advdate(martes, 8)`. Unidad 3. La práctica - Afro
-
-- Alegato de cierre Ministerio Público Fiscal [Luz Aime](https://youtu.be/ZKH82JYVLgc)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKH82JYVLgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-e.  Africanos y afrodescendientes
-
--   Informe Defensoria CABA, [aca](https://drive.google.com/file/d/1vIoZ7GBl8fwXbZWhqoCxqOHsHMvP7Dki/view?usp=sharing)
-
--   Angela Davis, "Raza, Mujeres y clase", Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing))
-
--   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S)
+<!-- ### `r advdate(martes, 8)`. Unidad 3. La práctica - Afro -->
 
 
-Acá el video de la charla TED de Kimberle Crenshaw sobre interseccionalidad
+<!-- e.  Africanos y afrodescendientes -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- -   Informe Defensoria CABA, [aca](https://drive.google.com/file/d/1vIoZ7GBl8fwXbZWhqoCxqOHsHMvP7Dki/view?usp=sharing) -->
+
+<!-- -   Angela Davis, "Raza, Mujeres y clase", Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing)) -->
+
+<!-- -   Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S) -->
+
+
+<!-- Acá el video de la charla TED de Kimberle Crenshaw sobre interseccionalidad -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 ### `r advdate(viernes, 8)`. Unidad 3. La práctica - Pueblos originarios
 
@@ -205,7 +227,7 @@ Estándares de la Corte Suprema para facilitar el acceso a la justicia:
 
 - CSJN [Padec](https://drive.google.com/file/d/186eN_fSToqx4d_W2fRI2pckZA3a5CWCH/view?usp=sharing)
 
-- Amparo colectivo DADSE
+- Amparo colectivo [DADSE](https://drive.google.com/file/d/1g6gfDr5m3UJ8ZzcQErBujPCrSV_V3gCp/view?usp=drive_link)
 
 
 ### `r advdate(viernes, 9)`. Examen final presencial
