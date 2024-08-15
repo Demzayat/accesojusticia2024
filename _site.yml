@@ -1,10 +1,10 @@
-name: "accesojusticia2023"
+name: "accesojusticia2024"
 title: "Acceso a la Justicia y Litigio Constitucional"
 description: |
   Acceso a la Justicia y Litigio Constitucional
 output_dir: "docs"
 navbar:
-  title: Comisión 0711 1bim - 2024
+  title: Comisión 0711 3bim - 2024
   left:
     - text: Home
       href: index.html
