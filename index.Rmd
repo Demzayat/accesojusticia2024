@@ -105,6 +105,7 @@ a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 - CSJN Fallo "Otoya Piedra", [aca](https://drive.google.com/file/d/1pCrN9ZpmIbFxLVbRP_inKTYmjocRSiwa/view?usp=sharing)
 
+<iframe src="https://drive.google.com/file/d/1HsNG-QDJsp31jH11RkpUEMXX27kHTJl0/preview" width="560" height="315" allow="autoplay"></iframe>
 
 ### `r advdate(viernes, 4)`. Unidad 3. La práctica - Situación de Calle
 
@@ -113,6 +114,8 @@ b.  Usurpaciones y derecho de defensa
 -   Ricciardi y Zayat, *El derecho de defensa en los casos de usurpaciones en la Ciudad de Buenos Aires: un estudio empírico*, en Revista Institucional de la Defensa Pública de la CABA N° 1, disponible [acá](https://drive.google.com/file/d/1KeqFSqkZ2aBrHXkRcIaZCVu6AMSaX7zH/view?usp=sharing)
 
 - Protocolo de Salud Mental, [aca](https://drive.google.com/file/d/1_1DCvbeTGT8gLp9pAMsCejJeJPs-2mj2/view?usp=sharing)
+
+- Ley 6020: "Art. 335 CPP CABA: En los casos de usurpación de inmuebles, en cualquier estado del proceso, el/la Fiscal o el/la Juez/a, a pedido del/la damnificado/a y sin correr traslado a la defensa, puede disponer provisionalmente el inmediato reintegro de la posesión o tenencia del inmueble, cuando el derecho invocado fuere verosímil y puede fijar una caución si lo considerare necesario. A tales fines, el/la Juez/a escucha en entrevista personal a la Fiscalía. La decisión que disponga la resolución se ejecuta y es apelable sin efecto suspensivo. (Ley 6020, del 04/10/2018)"
 
 ### `r advdate(martes, 5)`. Unidad 3. La práctica
 
